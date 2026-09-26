@@ -1,0 +1,21 @@
+{
+  "name": "ken",
+  "short_name": "ken",
+  "icons": [
+    {
+      "src": "/files/fav/web-app-manifest-192x192.png?v=1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/files/fav/web-app-manifest-512x512.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#009cff",
+  "display": "standalone"
+}
